@@ -1,5 +1,5 @@
 flask
-scikit-learn
 joblib
 numpy
 gunicorn
+scikit-learn==1.7.0
